@@ -1,6 +1,9 @@
-package edu.ucsd.cse110.lab2;
+package CSE110_Lab2.src.test.java.edu.ucsd.cse110.lab2;
 
 import org.junit.jupiter.api.Test;
+
+import CSE110_Lab2.src.main.java.edu.ucsd.cse110.lab2.MyQueue;
+
 import org.junit.jupiter.api.BeforeEach;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
